@@ -6,14 +6,14 @@ They are grouped into categories for easier navigation. To be updated.
 
 ---
 # 📑 Table of Contents
-- [To start](#to-start)
+- [📝 To start](#to-start)
 - [📚 Surveys — GNNs & Bioinformatics](#-surveys--gnns--bioinformatics)
 - [🦠 Disease–Gene Prediction Papers (GNN & Network Approaches)](#-diseasegene-prediction-papers-gnn--network-approaches)
 - [🏗️ GNN Architectures & Bioinformatics](#-gnn-architectures--bioinformatics)
 - [🧬 GRN Background](#-grn-background)
 - [🩺 Other Biomedical Applications of GNNs](#-other-biomedical-applications-of-gnns)
 ---
-## To start
+## 📝 To start
 1. **GRN Fundamentals**
 
 Karlebach & Shamir (2008) — Modelling and Analysis of Gene Regulatory Networks
