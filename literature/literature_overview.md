@@ -5,6 +5,41 @@ This document summarizes the key sources collected for the dissertation.
 They are grouped into categories for easier navigation. To be updated.
 
 ---
+# 📑 Table of Contents
+- [To start](#to-start)
+- [📚 Surveys — GNNs & Bioinformatics](#-surveys--gnns--bioinformatics)
+- [🦠 Disease–Gene Prediction Papers (GNN & Network Approaches)](#-diseasegene-prediction-papers-gnn--network-approaches)
+- [🏗️ GNN Architectures & Bioinformatics](#-gnn-architectures--bioinformatics)
+- [🧬 GRN Background](#-grn-background)
+- [🩺 Other Biomedical Applications of GNNs](#-other-biomedical-applications-of-gnns)
+---
+## To start
+1. **GRN Fundamentals**
+
+Karlebach & Shamir (2008) — Modelling and Analysis of Gene Regulatory Networks
+The definitive review of GRN formalisms (Boolean, Bayesian, ODEs). Sets the biological + computational stage.
+
+2. **GRN Inference from Modern Data**
+
+Chan et al. (2017) — PIDC: GRN inference from single-cell data
+Pioneering method for GRN inference in the single-cell era. Shows the complexity of biological data.
+
+3. **Survey Linking GNNs + Bio**
+
+Zhang et al. (2021) — Graph Neural Networks and Their Current Applications in Bioinformatics
+Systematic overview of GNNs applied to biological problems (disease, drug, omics). Nice bridge.
+
+4. **First Biomedical GNN**
+
+Singh & Lio (2019) — Probabilistic generative GNNs for disease–gene prediction
+Early and influential paper applying GNNs directly in disease-gene prediction.
+
+5. **Cutting-Edge & Explainable**
+
+Mastropietro et al. (2023) — XGDAG: explainable gene–disease associations via GNNs
+Modern example of explainable GNNs in biology. Inspiring for future directions.
+
+---
 ## 📚 Surveys — GNNs & Bioinformatics
 
 1. **Xiao-Meng Zhang; Li Liang; Lin Liu; Ming-Jing Tang**  
@@ -104,7 +139,7 @@ They are grouped into categories for easier navigation. To be updated.
     Introduces VGAE and constrained-VGAE for unsupervised disease–gene link prediction in heterogeneous g
 ---
 
-## 🏗️ GNN Architectures & Bioinformatics Surveys
+## 🏗️ GNN Architectures & Bioinformatics 
 
 1. **Xiao-Meng Zhang; Li Liang; Lin Liu; Ming-Jing Tang**  
    *Graph Neural Networks and Their Current Applications in Bioinformatics* (2021).  
