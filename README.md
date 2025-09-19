@@ -9,13 +9,12 @@ It serves as a central place to keep literature, databases, proposal, and ongoin
 
 ## 📂 Repository Structure
 - [**literature/**](literature)  (updated 19/09/2025)   
-  - [pdfs/](literature/pdfs) → collection of ~34 papers (from Zotero)
-  - [literature_overview.md](literature/literature_overview.md) - README for all articles with short overviews of each paper, organized by groups
-  - [references.bib](literature/references.bib) → exported references in BibTeX format  
-  - [README_literature_overview.md](literature/README_literature_overview.md) → summary and categorization of sources  
+  - [pdfs/](literature/pdfs) - collection of ~34 papers (from Zotero)
+  - [references.bib](literature/references.bib) - exported references in BibTeX format  
+  - [README_literature_overview.md](literature/README_literature_overview.md) - README for all articles with short overviews of each paper, organized by groups  
  
 - [**proposal/**](proposal)  
-  - [proposal.pdf](proposal/proposal.pdf) → dissertation proposal  
+  - [proposal.pdf](proposal/proposal.pdf) - dissertation proposal  
 
 ---
 
