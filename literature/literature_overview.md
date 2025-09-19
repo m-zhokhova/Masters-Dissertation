@@ -184,6 +184,10 @@ They are grouped into categories for easier navigation. To be updated.
    *XGDAG: explainable gene–disease associations via graph neural networks* (2023).  
    Proposes an interpretable GNN framework for gene–disease association prediction. Combines deep learning accuracy with mechanisms for transparency, producing ranked gene–disease links while highlighting contributing features. Bridges predictive power and explainability, making outputs more biologically trustworthy.
 
+12. **Binon Teji; Swarup Roy**  
+   *A Novel Graph Transformer Framework for Gene Regulatory Network Inference* (2025, preprint).  
+   Introduces **GT-GRN**, a graph transformer-based model for GRN inference. Combines autoencoder-derived expression embeddings, BERT-style embeddings of GRN structures (via random walks), and positional encodings to integrate prior knowledge. Achieves state-of-the-art performance, improving robustness and accuracy of GRN reconstruction.
+
 ---
 ##  🩺 Other Biomedical Applications of GNNs
 
