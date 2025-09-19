@@ -137,6 +137,10 @@ They are grouped into categories for easier navigation. To be updated.
 8. **Zichen Wang; Vassilis N. Ioannidis; Huzefa Rangwala; Tatsuya Arai; Ryan Brand; Mufei Li; Yohei Nakayama**  
    *Graph Neural Networks in Life Sciences: Opportunities and Solutions* (2022, KDD Tutorial).  
    Broad life-sciences tutorial: graph types, problem formulations, and four hands-on GNN pipelines (small molecules, macromolecules, protein–ligand bi-graphs, KG-driven drug discovery).
+
+9. **Hakan T. Otal; Abdulhamit Subasi; Furkan Kurt; M. Abdullah Canbaz; Yasin Uzun**  
+   *Analysis of Gene Regulatory Networks from Gene Expression Using Graph Neural Networks* (2025, book section).  
+   Applies **Graph Attention Network v2 (GATv2)** to GRN inference from gene expression data and Boolean models. Attention mechanisms enable accurate prediction of regulatory interactions and identification of key regulators. Highlights GNNs as transformative for GRN analysis, with implications for personalized medicine, drug discovery, and systems biology.
 ---
 ## 🧬 GRN Background
 
@@ -187,6 +191,10 @@ They are grouped into categories for easier navigation. To be updated.
 12. **Binon Teji; Swarup Roy**  
    *A Novel Graph Transformer Framework for Gene Regulatory Network Inference* (2025, preprint).  
    Introduces **GT-GRN**, a graph transformer-based model for GRN inference. Combines autoencoder-derived expression embeddings, BERT-style embeddings of GRN structures (via random walks), and positional encodings to integrate prior knowledge. Achieves state-of-the-art performance, improving robustness and accuracy of GRN reconstruction.
+
+13. **Hakan T. Otal; Abdulhamit Subasi; Furkan Kurt; M. Abdullah Canbaz; Yasin Uzun**  
+   *Analysis of Gene Regulatory Networks from Gene Expression Using Graph Neural Networks* (2025, book section).  
+   Applies **Graph Attention Network v2 (GATv2)** to GRN inference from gene expression data and Boolean models. Attention mechanisms enable accurate prediction of regulatory interactions and identification of key regulators. Highlights GNNs as transformative for GRN analysis, with implications for personalized medicine, drug discovery, and systems biology.
 
 ---
 ##  🩺 Other Biomedical Applications of GNNs
