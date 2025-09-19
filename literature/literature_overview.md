@@ -180,6 +180,10 @@ They are grouped into categories for easier navigation. To be updated.
     *DeepFGRN: inference of gene regulatory network with regulation type based on directed graph embedding* (2024).  
     Deep model for directed, signed GRNs using bidirectional node representations, adversarial neighbor learning, and correlation modules; identifies candidate biomarkers/therapeutics across diseases.
 
+11. **Andrea Mastropietro; Gianluca De Carlo; Aris Anagnostopoulos**  
+   *XGDAG: explainable gene–disease associations via graph neural networks* (2023).  
+   Proposes an interpretable GNN framework for gene–disease association prediction. Combines deep learning accuracy with mechanisms for transparency, producing ranked gene–disease links while highlighting contributing features. Bridges predictive power and explainability, making outputs more biologically trustworthy.
+
 ---
 ##  🩺 Other Biomedical Applications of GNNs
 
